@@ -8,7 +8,7 @@ usuarios =[
 },
 
 {
-    'nombre':'Sonia Reteria',
+    'nombre':'Sonia Renteria',
     'rol':'coordinador'
    }
 
